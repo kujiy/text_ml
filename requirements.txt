@@ -1,0 +1,4 @@
+tensorflow
+sentence_transformers
+sklearn
+matplotlib
